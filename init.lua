@@ -7,7 +7,9 @@ weight = 1000
 author = {'lowfye'}
 homepage = "https://github.com/sandertyu/tome-no-ambient-sounds"
 description = [[
-Removes all ambient sounds from the game. This includes removing dog barking, bird screeching, blacksmith sounds, wind, and so on. Enjoy the sweet sound of silence~
+Removes all ambient sounds from the game. This includes removing dog barking, bird screeching, blacksmith sounds, wind, and so on. Monsters will still make their growling and hissing noises while fighting.
+
+Enjoy the sweet sound of silence~
 
 https://github.com/sandertyu/tome-no-ambient-sounds
 
