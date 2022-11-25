@@ -3,7 +3,7 @@ local _M = loadPrevious(...)
 -- save the original init function
 local base_makeAmbientSounds = _M.makeAmbientSounds
 
--- set the target cursor
+-- remove all content from this function
 function _M:makeAmbientSounds(level, t)
 end
 
