@@ -1,6 +1,6 @@
 local _M = loadPrevious(...)
 
--- save the original init function
+-- save the original ambient sounds function
 local base_makeAmbientSounds = _M.makeAmbientSounds
 
 -- remove all content from this function

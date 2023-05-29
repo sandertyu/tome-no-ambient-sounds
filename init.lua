@@ -1,7 +1,7 @@
 long_name = "No Ambient Sounds"
 short_name = "no-ambient-sounds" 
 for_module = "tome"
-version = {1,7,4}
+version = {1,7,5}
 addon_version = {1,0,0}
 weight = 1000
 author = {'lowfye'}
