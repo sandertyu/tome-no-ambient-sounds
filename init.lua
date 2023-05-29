@@ -2,7 +2,7 @@ long_name = "No Ambient Sounds"
 short_name = "no-ambient-sounds" 
 for_module = "tome"
 version = {1,7,5}
-addon_version = {1,0,0}
+addon_version = {1,0,1}
 weight = 1000
 author = {'lowfye'}
 homepage = "https://github.com/sandertyu/tome-no-ambient-sounds"
@@ -14,6 +14,7 @@ Enjoy the sweet sound of silence~
 https://github.com/sandertyu/tome-no-ambient-sounds
 
 ---Changelog---
+- v1.0.1 Update to tome4 1.7.5
 - v1.0.0 Initial release.
 ]]
 tags = {'ambient', 'sound', 'sounds', 'no', 'remove', 'background', 'noise', 'dog', 'bird', 'hammer', 'last hope'}

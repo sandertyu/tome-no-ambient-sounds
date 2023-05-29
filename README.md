@@ -5,5 +5,6 @@ Enjoy the sweet sound of silence~
 https://github.com/sandertyu/tome-no-ambient-sounds
 
 ---Changelog---
+- v1.0.1 Update to tome4 1.7.5
 - v1.0.0 Initial release.
 
